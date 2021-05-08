@@ -112,6 +112,9 @@ nav ul li{
   margin-left: 10px;
   margin-right:20px; 
 }
+nav ul li a{
+  text-decoration: none;
+}
 .row{
   height: 60%;
 }
